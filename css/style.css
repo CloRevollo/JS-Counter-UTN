@@ -1,5 +1,5 @@
 
-/*Seccion con BG de "VIDEO" Y "CONTADOR en JS"*/
+/*Seccion "CONTADOR JS" con Fondo/Background de un Video de CABA*/
 
 .section-video {
     position: relative;
@@ -88,3 +88,5 @@ video{
     color: var(--bs-orange);
     padding-bottom: 20px;
 }
+
+/* FIN Seccion de CSS del "CONTADOR" JS */
